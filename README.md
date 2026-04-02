@@ -2,7 +2,7 @@
 
 Founder & CEO of **Velocity Funds** — an AI-powered futures trading evaluation platform built for the next generation of traders.
 
-I'm a self-taught full-stack engineer who came up through real estate, finance, and collections before going all-in on fintech. I build what I can't find, and I ship what I build.
+I'm a self-taught full-stack engineer who came up through real estate, finance, and technology before going all-in on fintech. I build what I can't find, and I ship what I build.
 
 ---
 
