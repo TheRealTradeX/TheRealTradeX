@@ -39,9 +39,9 @@ Tools         Claude Code · VS Code · Figma
 
 ---
 
-## 📍 Based in St. Petersburg, FL
+## 📍 Based in New Jersey
 
-Building Velocity Funds to launch. Always learning, always shipping.
+Building Velocity Funds to launch.
 
 - 🌐 [velocityfunds.io](https://velocityfunds.io)
 - 📧 ceo@velocityfunds.io
