@@ -1,54 +1,66 @@
 # Jefrey Peralta
-**Full-Stack Software Engineer | TypeScript, React, Next.js, PostgreSQL**
 
-I build production web applications that turn complex business workflows into reliable, usable software.
+**Software Engineer | Full-Stack Systems, Product Engineering, Applied AI**
 
-My strongest work sits at the intersection of frontend engineering, backend systems, third-party integrations, and product ownership. Most recently, I designed, built, launched, and operated a fintech platform from the ground up.
+I build production software that turns complicated business operations into reliable, usable systems. My work spans frontend applications, backend services, databases, integrations, automation, and the operational responsibility that begins after deployment.
 
-I owned the customer experience, internal operations tooling, authentication, payment infrastructure, database architecture, automated workflows, and production deployments. That experience taught me how to work through ambiguity, make practical technical decisions, and remain accountable for software after it ships.
+I am studying Computer Science at WGU while seeking a software engineering team where I can contribute to real features, learn through code review, and grow into end-to-end ownership.
 
-## Selected Engineering Work
+## Featured Engineering Work
 
 ### [Velocity Funds Platform](https://github.com/TheRealTradeX/velocity-funds-platform)
-A production fintech platform built with Next.js, TypeScript, Supabase, and PostgreSQL.
 
-- Built customer-facing dashboards and internal administrative tools
-- Designed authentication, account lifecycle, and role-based access workflows
-- Integrated payment processing, transactional email, market data, and payout providers
-- Implemented idempotent webhook handling and safeguards for financial events
-- Developed real-time account, risk, and performance interfaces
-- Took the product from concept to launch and supported more than 120 onboarded users
+A production fintech platform I designed, built, launched, and operated.
 
-The production source is private, but the public repository documents the platform's architecture, systems, and engineering decisions.
+- Built with Next.js, TypeScript, React, PostgreSQL, Supabase, Redis, and background workers
+- Delivered customer dashboards, an internal CRM, authentication, payments, payouts, email automation, and account lifecycle workflows
+- Implemented realtime account, trading, risk, and performance systems
+- Applied row-level security, idempotent event processing, operational recovery, and production runbooks
+- Developed AI-assisted behavioral and performance features
+- Supported 86 registered users and daily business operations
 
-## What I Bring to a Team
+The complete production repository remains private because it contains customer-sensitive operations and licensed integrations. The public case study documents the architecture, engineering decisions, selected implementation patterns, and measurable outcomes.
 
-**Product engineering** — I translate real operational problems into clear, maintainable software.
+### [Webhook Idempotency](https://github.com/TheRealTradeX/webhook-idempotency)
 
-**Frontend development** — I build responsive interfaces, reusable React components, dashboards, and data-heavy workflows.
+A runnable TypeScript implementation of a resilient payment-event pipeline.
 
-**Backend reliability** — I work with APIs, webhooks, database design, access controls, idempotency, and data integrity.
+- Stable event identity and database-backed deduplication
+- Convergent projections and atomic guards for side effects
+- Notification suppression and recoverable event processing
+- Automated checks for retries, concurrency, signatures, and recovery
+- Runs locally without credentials or external services
 
-**Integrations and automation** — I connect external services and replace fragile manual workflows with dependable systems.
+This project demonstrates how I reason about failure modes, data integrity, testing, and reliable backend behavior.
 
-**Ownership** — I can take a problem from requirements and architecture through deployment, debugging, and iteration.
+### [Engineering Portfolio](https://jefrey-peralta.vercel.app/)
+
+Case studies covering production full-stack delivery, applied AI systems, automation, and the reasoning behind key technical decisions.
+
+## How I Engineer
+
+- Understand the user and business problem before selecting an implementation
+- Break large systems into explicit contracts, boundaries, and failure modes
+- Validate behavior with tests, logs, reproducible examples, and production evidence
+- Use AI development tools to move faster while reviewing, testing, and owning every result
+- Document architectural decisions and tradeoffs so they are easy to inspect
+- Stay accountable after deployment through debugging, recovery, and iteration
 
 ## Technology
 
 ```text
 Languages    TypeScript, JavaScript, SQL, Python
-Frontend     React, Next.js, Tailwind CSS, CSS 3, shadcn/ui
-Backend      Node.js, Supabase, PostgreSQL, REST APIs, Webhooks
-Platform     Vercel, Railway, GitHub Actions, Resend
-Practices    Component architecture, RLS, OAuth, idempotency, responsive design
+Frontend     React, Next.js, Tailwind CSS, responsive interfaces
+Backend      Node.js, PostgreSQL, Supabase, REST APIs, webhooks
+Systems      Redis, BullMQ, realtime services, background workers
+Platform     Vercel, Railway, GitHub Actions, Sentry
+Practices    Testing, debugging, RLS, OAuth, idempotency, code review
 ```
 
-## How I Work
+## Direction
 
-I care about clear code, thoughtful user experiences, resilient systems, and measurable outcomes.
+My immediate goal is to become a strong software engineer inside a collaborative product team. Over the next several years, I am building toward applied AI and forward-deployed engineering in financial technology, supported by deeper computer science and machine learning study.
 
-I am comfortable owning difficult problems independently, but I am equally motivated by working with strong engineers, learning through code review, and contributing to a team that ships ambitious products.
+Based in New Jersey. Open to remote, hybrid, and in-office opportunities.
 
-Currently based in New Jersey and pursuing full-stack, frontend, and product engineering opportunities.
-
-[Portfolio](https://jefrey-peralta.vercel.app/) · [Platform Case Study](https://github.com/TheRealTradeX/velocity-funds-platform)
+[Portfolio](https://jefrey-peralta.vercel.app/) · [Velocity Case Study](https://github.com/TheRealTradeX/velocity-funds-platform) · [Webhook Project](https://github.com/TheRealTradeX/webhook-idempotency)
